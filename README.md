@@ -1,1 +1,1 @@
-# -[telegram_bot_full_package.zip](https://github.com/user-attachments/files/21442861/telegram_bot_full_package.zip)
+[telegram_bot_github_package.zip](https://github.com/user-attachments/files/21443555/telegram_bot_github_package.zip)
